@@ -17,6 +17,7 @@
 
 using namespace Robot;
 
+
 LinuxCM730::LinuxCM730(const char* name)
 {
 	DEBUG_PRINT = false;
